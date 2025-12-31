@@ -36,4 +36,4 @@ Created: December 2025
 ## 🧾 C++ Version
 This project was created using **C++ 17**
 
-⭐ If you like this project, consider giving it a star!
+## ⭐ If you like this project, consider giving it a star!
